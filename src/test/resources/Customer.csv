@@ -1,0 +1,4 @@
+ref,name,addressLine1,addressLine2,town,county,country,postcode
+C001,John Smith,123 Main St,,London,Middlesex,UK,SW1A 1AA
+C002,Jane Doe,456 High St,Apt 2B,Manchester,Lancashire,UK,M1 1AA
+C003,Bob Johnson,789 Low St,,Birmingham,Warwickshire,UK,B1 1AA
